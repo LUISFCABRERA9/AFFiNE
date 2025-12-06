@@ -31,7 +31,7 @@
 
 <br style="display: none;"/>
 
-_Special thanks to [Blaze](https://runblaze.dev) for their support of this project. They provide high-performance Apple Silicon macOS and Linux (AMD64 & ARM64) runners for GitHub Actions, greatly reducing our automated build times._
+_Special thanks to [Blaze](https://runblaze.dev) for their support of this project. They provide high-performance Apple Silicon macOS and Linux (AMD64 & ARM64) runners for GitHub Actions, greatly reducing our automated build times._2
 
 </div>
 
