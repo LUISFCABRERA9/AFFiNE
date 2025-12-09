@@ -69,7 +69,7 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://user-images.githubusercontent.com/79301703/230891830-0110681e-8c7e-483b-b6d9-9e42b291b9ef.gif" style="width: 100%"/>
 
-## What is AFFiNE
+## What is AFFiNE 1
 
 [AFFiNE](https://affine.pro) is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
